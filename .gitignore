@@ -1,0 +1,9 @@
+# Never upload your real secrets to GitHub
+.env
+
+# Python cache files (auto-generated, not needed in the repo)
+__pycache__/
+*.pyc
+
+# ngrok config (has your personal authtoken)
+ngrok.exe
